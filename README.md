@@ -15,6 +15,24 @@ I'm Pumehana Cartagena, a student at Brigham Young University-Idaho interested i
 - Proficient in: Python, C#, HTML, CSS, JavaScript, GitHub, Azure DevOps, .NET, Render, MongoDB, MySQL, PostgreSQL, Next.JS, React, Vercel
 - Skills: proficient using Teams, successful working in teams and/or solo, great communicator, experience working remote
 
+## Projects
+
+- https://dev.azure.com/dotNETteam4/_git/Team4GroupProject
+  - This is a Personal Planner app which uses .NET Blazor, mongoDB as the database, and azure websites to deploy.  Includes CRUD functionality.
+  - App includes: User login, Budget Planner, Goals Planner, To-do List, and a Calendar!
+  - Contributors (including me): 6
+- https://github.com/pumecart/PaintApp.git
+  - Paint app created to learn C# in Visual Studio
+  - Includes youtube demo
+- https://github.com/pumecart/flappy-bird.git
+  - Flappybird-type game using Python and imports Pygame and Random
+  - Includes youtube demo
+ 
+## My Github Stats
+
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pumecart&hide=javascript,css,scss,html&theme=tokyonight)
+
+
 ## Let's Connect!
 
 - Here is my www.linkedin.com/in/pumehana-cartagena profile
