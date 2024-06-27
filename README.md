@@ -30,7 +30,7 @@ I'm Pumehana Cartagena, a student at Brigham Young University-Idaho interested i
  
 ## My Github Stats
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pumecart&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pumecart&hide=javascript,css,scss,html&theme=tokyonight)
 
 
 ## Let's Connect!
