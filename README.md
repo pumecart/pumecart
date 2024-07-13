@@ -6,7 +6,7 @@ I'm Pumehana Cartagena, a student at Brigham Young University-Idaho interested i
 
 ## About Me
 
-- I'm currently learning Full-Stack using next.js, Vercel for deployment, and a Postgres database, Architectural Design, and Data Analytics via Google Certificates.
+- I'm currently learning Full-Stack using next.js, Vercel for deployment, and a Postgres database, and Architectural Design.
 - My goals are to gain employment using my knowledge of web development and data analytics.
 - Ask me about why I chose this career change!
 
