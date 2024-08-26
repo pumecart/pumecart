@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm Pumehana Cartagena, a student at Brigham Young University-Idaho interested in web development, data analytics, and project management. Welcome to my GitHub profile!
+I'm Pumehana Cartagena, a new graduate from Brigham Young University-Idaho with a B.S. in Software Development.  I am interested in web development, data analytics, and project management. Welcome to my GitHub profile!
 
 ## About Me
 
