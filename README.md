@@ -17,6 +17,11 @@ I'm Pumehana Cartagena, a new graduate from Brigham Young University-Idaho with 
 
 ## Projects
 
+- https://handcrafted-haven-group5.vercel.app/
+  - This is a distribution platform which uses Next.JS where business owners can use it to sell their handcrafted goods or clients can use it to purchase goods.
+  - My contributions:
+    - Header, Body of the Home Page, Handcrafted Haven logo, About Us Body, /seller-profiles/Christopher Body, /seller-profiles/Jennie Body
+  - Contributors (including me): 6
 - https://dev.azure.com/dotNETteam4/_git/Team4GroupProject
   - This is a Personal Planner app which uses .NET Blazor, mongoDB as the database, and azure websites to deploy.  Includes CRUD functionality.
   - App includes: User login, Budget Planner, Goals Planner, To-do List, and a Calendar!
